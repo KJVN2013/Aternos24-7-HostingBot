@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK Bot Tuat ngu dau buoi oc cak",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "botngu oc cc",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "DaubuoiSMP.aternos.me",
+    "port": 16034,
     "version": "",
     "try-creative": false
   },
